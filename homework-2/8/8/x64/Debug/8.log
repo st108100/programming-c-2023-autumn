@@ -1,0 +1,7 @@
+﻿  8.cpp
+C:\Users\ира\source\repos\st108100\programming-c-2023-autumn\homework-2\8\8\8.cpp(7,8): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\ира\source\repos\st108100\programming-c-2023-autumn\homework-2\8\8\8.cpp(10,13): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\ира\source\repos\st108100\programming-c-2023-autumn\homework-2\8\8\8.cpp(13,13): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\ира\source\repos\st108100\programming-c-2023-autumn\homework-2\8\8\8.cpp(16,13): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\ира\source\repos\st108100\programming-c-2023-autumn\homework-2\8\8\8.cpp(19,13): warning C4804: >=: небезопасное использование типа "bool" в операции
+  8.vcxproj -> C:\Users\ира\source\repos\st108100\programming-c-2023-autumn\homework-2\8\x64\Debug\8.exe
